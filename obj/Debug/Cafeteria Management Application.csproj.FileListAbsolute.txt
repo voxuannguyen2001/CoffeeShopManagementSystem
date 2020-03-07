@@ -1,0 +1,24 @@
+C:\Users\Nguyen Vo\source\repos\Cafeteria Management Application\Cafeteria Management Application\bin\Debug\Cafeteria Management Application.exe.config
+C:\Users\Nguyen Vo\source\repos\Cafeteria Management Application\Cafeteria Management Application\bin\Debug\Cafeteria Management Application.exe
+C:\Users\Nguyen Vo\source\repos\Cafeteria Management Application\Cafeteria Management Application\bin\Debug\Cafeteria Management Application.pdb
+C:\Users\Nguyen Vo\source\repos\Cafeteria Management Application\Cafeteria Management Application\obj\Debug\Cafeteria Management Application.csprojAssemblyReference.cache
+C:\Users\Nguyen Vo\source\repos\Cafeteria Management Application\Cafeteria Management Application\obj\Debug\Cafeteria_Management_Application.Properties.Resources.resources
+C:\Users\Nguyen Vo\source\repos\Cafeteria Management Application\Cafeteria Management Application\obj\Debug\Cafeteria Management Application.csproj.GenerateResource.cache
+C:\Users\Nguyen Vo\source\repos\Cafeteria Management Application\Cafeteria Management Application\obj\Debug\Cafeteria Management Application.exe
+C:\Users\Nguyen Vo\source\repos\Cafeteria Management Application\Cafeteria Management Application\obj\Debug\Cafeteria Management Application.pdb
+C:\Users\Nguyen Vo\source\repos\Cafeteria Management Application\Cafeteria Management Application\obj\Debug\Cafeteria_Management_Application.fLogin.resources
+C:\Users\Nguyen Vo\source\repos\Cafeteria Management Application\Cafeteria Management Application\obj\Debug\Cafeteria_Management_Application.fTableManager.resources
+C:\Users\Nguyen Vo\source\repos\Cafeteria Management Application\Cafeteria Management Application\obj\Debug\Cafeteria_Management_Application.fAccountProfile.resources
+C:\Users\Nguyen Vo\source\repos\Cafeteria Management Application\Cafeteria Management Application\obj\Debug\Cafeteria_Management_Application.Admin.resources
+C:\Users\Nguyen Vo\Desktop\Ticklab\C#\Study\Cafeteria Management Application\Cafeteria Management Application\bin\Debug\Cafeteria Management Application.exe.config
+C:\Users\Nguyen Vo\Desktop\Ticklab\C#\Study\Cafeteria Management Application\Cafeteria Management Application\bin\Debug\Cafeteria Management Application.exe
+C:\Users\Nguyen Vo\Desktop\Ticklab\C#\Study\Cafeteria Management Application\Cafeteria Management Application\bin\Debug\Cafeteria Management Application.pdb
+C:\Users\Nguyen Vo\Desktop\Ticklab\C#\Study\Cafeteria Management Application\Cafeteria Management Application\obj\Debug\Cafeteria Management Application.csprojAssemblyReference.cache
+C:\Users\Nguyen Vo\Desktop\Ticklab\C#\Study\Cafeteria Management Application\Cafeteria Management Application\obj\Debug\Cafeteria_Management_Application.fAccountProfile.resources
+C:\Users\Nguyen Vo\Desktop\Ticklab\C#\Study\Cafeteria Management Application\Cafeteria Management Application\obj\Debug\Cafeteria_Management_Application.Admin.resources
+C:\Users\Nguyen Vo\Desktop\Ticklab\C#\Study\Cafeteria Management Application\Cafeteria Management Application\obj\Debug\Cafeteria_Management_Application.fLogin.resources
+C:\Users\Nguyen Vo\Desktop\Ticklab\C#\Study\Cafeteria Management Application\Cafeteria Management Application\obj\Debug\Cafeteria_Management_Application.fTableManager.resources
+C:\Users\Nguyen Vo\Desktop\Ticklab\C#\Study\Cafeteria Management Application\Cafeteria Management Application\obj\Debug\Cafeteria_Management_Application.Properties.Resources.resources
+C:\Users\Nguyen Vo\Desktop\Ticklab\C#\Study\Cafeteria Management Application\Cafeteria Management Application\obj\Debug\Cafeteria Management Application.csproj.GenerateResource.cache
+C:\Users\Nguyen Vo\Desktop\Ticklab\C#\Study\Cafeteria Management Application\Cafeteria Management Application\obj\Debug\Cafeteria Management Application.exe
+C:\Users\Nguyen Vo\Desktop\Ticklab\C#\Study\Cafeteria Management Application\Cafeteria Management Application\obj\Debug\Cafeteria Management Application.pdb
